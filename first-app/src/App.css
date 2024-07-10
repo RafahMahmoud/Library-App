@@ -1,0 +1,27 @@
+
+.nav-bar{
+  color: white;
+  font-weight: bold;
+  background-color: rgb(118, 2, 131);
+  padding: 1rem 6rem;
+}
+.footer{
+  color: white;
+  background-color: rgb(118, 2, 131);
+  padding: 0.5rem 6rem;
+}
+.books-list{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin: 8rem;
+}
+.book{
+  background-color: rgb(234, 149, 227);
+  color:black;
+  text-align: center;
+  font-size: 1.2rem;
+  border-radius: 1.25px;
+  padding: 1rem;
+  margin: 1rem;
+}
